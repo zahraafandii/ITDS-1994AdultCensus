@@ -34,7 +34,7 @@ Once the data was cleaned, the next stage involved visualizing it to interpret t
 * Statistical Analysis: SciPy
 * Data Visualization: Matplotlib, Seaborn
 * Design: Canva
-
+ 
 ## Team Members
 
 This Project was completed by Group 5:
